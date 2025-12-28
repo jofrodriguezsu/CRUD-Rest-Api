@@ -1,6 +1,6 @@
 # 📚 Books CRUD REST API
 
-A simple **RESTful API** built with **Node.js, Express, and MongoDB (Mongoose)** that performs full CRUD operations on a collection of books.
+This is a **RESTful API** built with **Node.js, Express, and MongoDB (Mongoose)** that performs full CRUD operations on a collection of books.
 
 This project was created to practice backend fundamentals, REST API design, and clean project structure.
 
